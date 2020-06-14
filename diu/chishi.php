@@ -9,6 +9,7 @@
 class chishi
 {
     public function diuBiKaChao(){
+        echo 11;
         echo 'good';
     }
 }
